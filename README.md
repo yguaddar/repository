@@ -1,19 +1,10 @@
-• Erstellung von automatischen Funktionstests mit Martinomat-Testtool
-• Erstellung Dokumentation & Pflege von Testfällen 
-• Koordination und Durchführung von automatischen Funktionstests
-• Verifikation funktionaler und nicht funktionaler Anforderungen
-• Manuelles Testen & Automatisierung manueller Tests
-• Fehlerreproduktion und Analyse/Testraumbetreuung
-• Bugs erstellen und/oder nachtesten
-• Testfälle erstellen und/oder durchführen 
-• Auswertung der Testautomatisierung & Regressionstest
-• Dokumentation von Tests und Fehlern in Wiki
-• Durchführung von Tests, Funktions-, Last- und Performancetests
-• Jupiter, Jenkins & GIT
-• TM Master & MVS (Microsoft Visual Studio)
-• SDBViewer, AVC (ASOM Viewer and Comparer) & SDB Comparer
-• Automatisierte Projekten in Jenkins einbringen & anstoßen
-• Fehlerhafte Automatisierte Projekte in Jenkins fixen
-• Referenzdaten erstellen & ins GIT bringen
-• TIA Portal V14/V15/V16/V17/V18 
-• Profibus & Profinet
+Die PDF/A-konforme Aufnahme von Metadaten erfordert im Fall, dass die
+Metadatenattribute benutzerspezifisch sind (d.h. sie sind nicht in den im PDF/
+A-Standard deklarierten XMP-Schemata enthalten), die Definition eines
+eigenen Metadatenschemas. Diese Schemadefinition gehorcht den
+Konventionen für PDF/A Erweiterungsschemas [TN0008], [TN0009]. Sowohl
+die konkrete Metadatenausprägung als auch das Erweiterungschema sind in
+jedem PDF/A Dokument einzubetten. Die Angabe der Referenz auf eine
+externe Ablage genügt nicht.
+Die PDF Association hat für den Einsatz von ZUGFeRD-konformen
+Rechnungsdokumenten ein entsprechendes Erweiterungsschema definiert
