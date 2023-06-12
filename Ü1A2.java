@@ -1,6 +1,6 @@
-/* Aufgabe 2: Erstellen eines Menüs */
+/* Aufgabe 2: Erstellen eines MenÃ¼s */
 import java.io.*;
-public class Ü1A2{
+public class Ãœ1A2{
   static int menu()throws IOException{
    BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
    int wahl;
@@ -24,7 +24,7 @@ public class Ü1A2{
      System.out.println("1.oeffnen");
      break;
      case 2 :
-     System.out.println("2.shcliessen");
+     System.out.println("2.Schliessen");
      break;
      case 3 :
      System.out.println("3.drucken");
